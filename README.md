@@ -4,3 +4,7 @@
 - หาก username หรือ password เป็นค่าว่างให้ โชว์ข้อความ “username is required” หรือ “password is required”
 - หาก username = “admin” และ password = “1234” หรือ username = “john” และ password = “qwerty” ให้โชว์ข้อความ “Hello” ตามด้วยชื่อ username
 - หาก username และ password ไม่ตรงตามเงื่อนไขที่กล่าวมาให้ โชว์ข้อความ “invalid username or password”
+
+### Homework Finished 12/07/2567
+- นายวัชรพล แดงเปี่ยม (มายด์)
+- Online-CC#18
